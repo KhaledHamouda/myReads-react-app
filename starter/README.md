@@ -2,7 +2,7 @@
 MyBooks : A tracking book react app
 
 # project description 
-The project is responsible for tracking your library,you have three shelves for each shelf contain list of books one shelf for currently read second shelf for want to read last shelf for read books. u can also search for any book with the help of booksapi.
+The project is responsible for tracking your library. project consists of two pages page for home and page for search.In home page, displays three shelves for each shelf contain list of books one shelf for currently read second shelf for want to read last shelf for read books. The home page also has a link to /search, a search page that allows you to find books to add to your library. you can search for any book with the help of BooksAPI with the functionality to save these books with a state of three states read, currently reading or need to read.
 
 ## Installing
 
