@@ -8,7 +8,7 @@ import {Link} from "react-router-dom"
 const Home =(props)=>{
     useEffect(()=>{
         BooksAPI.getAll().then((res) => props.setBooks(res))
-    },[])
+    })
     
     const currentlyReading = props.books.filter((book) => book.shelf === "currentlyReading");
     const whatToRead = props.books.filter((book) => book.shelf === "wantToRead");

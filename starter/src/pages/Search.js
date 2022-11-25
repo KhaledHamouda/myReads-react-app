@@ -53,14 +53,6 @@ const Search=(props)=>{
                         )
                     })
                 }
-                {/* {result &&result.map((book) => {
-                    return(
-                        <Book
-                            key={book.id}
-                            book={book}
-                            shelfChange={props.shelfChange}
-                        />)
-                    })} */}
             </ol>
         </div>       
     </div>
