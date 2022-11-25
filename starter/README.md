@@ -4,12 +4,13 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) to bootstrap the project.
 
-## TL;DR
+## how to start the project
 
-To get started developing right away:
-
+- create directory by `mkdir`.
+- clone the repository by $ git clone <repository-link>  
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
+- npm build to production
 
 ## What You're Getting
 
@@ -30,6 +31,12 @@ To get started developing right away:
     │   ├── add.svg
     │   ├── arrow-back.svg
     │   └── arrow-drop-down.svg
+    ├── components #components of the ui
+    |   ├── Book.js
+    │   ├── Shelf.js
+    ├── pages #pages of the ui
+    |   ├── Home.js
+    │   ├── Search.js
     ├── index.css # Global styles. You probably won't need to change anything here.
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
 ```
