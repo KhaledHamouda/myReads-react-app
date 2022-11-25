@@ -6,7 +6,7 @@ The project is responsible for tracking your library,you have three shelves for 
 ## Installation
 
 - create directory by `mkdir`.
-- clone the repository by $ git clone <repository-link>  
+- clone the repository in the directory you just create by $ git clone <repository-link>  
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
 - Open http://localhost:3000 to view it in your browser.
