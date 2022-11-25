@@ -1,5 +1,5 @@
 # Project Name
-MyBooks : an tracking book react app
+MyBooks : A tracking book react app
 # project description 
 The project is responsible for tracking your library,you have three shelves for each shelf contain list of books one shelf for currently read second shelf for want to read last shelf for read books. u can also search for any book with the help of booksapi.
 
