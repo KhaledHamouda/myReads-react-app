@@ -1,5 +1,6 @@
-# Project Name
+# Project Title
 MyBooks : A tracking book react app
+
 # project description 
 The project is responsible for tracking your library,you have three shelves for each shelf contain list of books one shelf for currently read second shelf for want to read last shelf for read books. u can also search for any book with the help of booksapi.
 
@@ -12,6 +13,11 @@ The project is responsible for tracking your library,you have three shelves for 
 - Open http://localhost:3000 to view it in your browser.
 - build the app for production with `npm build`.
 
+## Prerequisites
+    
+- you just have to installing node.js which comes with npm (node package manager).
+- background with react app development.  
+  
 ## What You're Getting
 
 ```bash
@@ -39,7 +45,7 @@ The project is responsible for tracking your library,you have three shelves for 
     ├── index.css # Global styles.
     └── index.js
 ```
-
+    
 ## Backend Server
 
 To simplify your development process, we've provided a backend server for you to develop against. The provided file [`BooksAPI.js`](src/BooksAPI.js) contains the methods you will need to perform necessary operations on the backend:
